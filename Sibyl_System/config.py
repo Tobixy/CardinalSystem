@@ -1,4 +1,4 @@
-from typing import Union, Optional, data
+from typing import Union, Optional, 
 
 API_ID: int = 29536634
 API_HASH: str = "f6d57b4713f0ecae0ac2b1fb69e136e5"
@@ -7,7 +7,7 @@ Sibyl_logs: Union[str, int] = -1001293004442
 Sibyl_approved_logs: Union[str, int] =  -1001293004442
 GBAN_MSG_LOGS: Optional[Union[str, int]] = None
 BOT_TOKEN: str = "6339781130:AAEw2dHjSrkKaytBHDXBzr5Y9c2lkhZgLRw"
-SIBYL = data["SIBYL"]
-CARDINAL = data["5715764478"]
-MANAGERS = data[""]
+SIBYL = ["SIBYL"]
+CARDINAL = ["5715764478"]
+MANAGERS = [""]
 DEVELOPERS = data["5715764478"]
