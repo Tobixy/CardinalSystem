@@ -1,4 +1,4 @@
-from typing import Union, Optional, 
+from typing import Union, Optional
 
 API_ID: int = 29536634
 API_HASH: str = "f6d57b4713f0ecae0ac2b1fb69e136e5"
@@ -10,4 +10,4 @@ BOT_TOKEN: str = "6339781130:AAEw2dHjSrkKaytBHDXBzr5Y9c2lkhZgLRw"
 SIBYL = ["SIBYL"]
 CARDINAL = ["5715764478"]
 MANAGERS = [""]
-DEVELOPERS = data["5715764478"]
+DEVELOPERS = ["5715764478"]
