@@ -41,11 +41,11 @@ else:
     API_HASH_KEY = Config.API_HASH
     STRING_SESSION = Config.STRING_SESSION
     MONGO_DB_URL = Config.MONGO_DB_URL
-    with open(os.path.join(os.getcwd(), "Sibyl_System/elevated_users.json"), "r") as f:
+    #with open(os.path.join(os.getcwd(), "Sibyl_System/elevated_users.json"), "r") as f:
        
-    CARDINAL = data["CARDINAL"]
-    MANAGERS = data["MANAGERS"]
-    DEVELOPERS = data["DEVELOPERS"]
+    CARDINAL = ["CARDINAL"]
+    MANAGERS = ["MANAGERS"]
+    DEVELOPERS = ["DEVELOPERS"]
     Sibyl_logs = Config.Sibyl_logs
     Sibyl_approved_logs = Config.Sibyl_approved_logs
     GBAN_MSG_LOGS = Config.GBAN_MSG_LOGS
