@@ -1,13 +1,27 @@
 from typing import Union, Optional
 
-API_ID: int = 2147833
-API_HASH: str = "75aaffe84071e6ceb7ab4e07b4a4a266"
-STRING_SESSION: str = "1BVtsOLUBu2GXIsLKUGTZkSgwO0AEeBcEPWmsPCPFZyZnstFNn1ltw64jD2h4MqMQxHGh_8NeJuZx5h0fW5gMg8s-4IBlz6Vw2Ks_-ttOKn7jPzdL70MbxKAlCfFwh3r_4WNIasUkineZxi7IL4qu5mmQjVWBdJYwjH-TauiLgd13MWrAy9XqT0kqyP2uG7Cw0BGAGyKKFXOzhiLUg-raH7wwcDWxxMZKhSrRtJXJT9Ga3f0A9yx2OCIhAdHZUk9t2WbgWFnJfVBpqKUullUCBy18VVuxes60an-0nFMr9jD7fZ4buWUQTKqabYeJO6xcgkSVFvtVMXLe45oR53zqGrC1d8a7x-c="
+API_ID: int = 29536634
+API_HASH: str = "f6d57b4713f0ecae0ac2b1fb69e136e5"
+STRING_SESSION: str = "1BVtsOG8Bu5xD1E8NS_bfwR_yvaGAvz71VuvBczPjX1JY20lPL10YuNqY6eA2kUzNACQsMAF8CLTtsyIDtaU9DiSp6OwtlgmK6xSnkaVEOGjGL1aksnnbKb1mR_UCyixL7q9xff5Rm-awGdbfHb5OTwSxSzu2LUhpKyXaADBfdZLIf6khMdLyARe1sRCAhM3ocf6MPTZDvzTeQprH5oznJIjy_VIdY-babIMiK_ygA_fG_rBmSXpoFKrBu527ASUVeZV1geUVe8nw6SoEd_HVWLhAX0MW2epLQQmiiSW-1uOnEK9ueqfMGbyOTmSFIW2O4iL51IFHkJ1uumG-aiEB6XQag39fyI4="
 Sibyl_logs: Union[str, int] = -1001293004442 
-Sibyl_approved_logs: Union[str, int] = -1001274776877
+Sibyl_approved_logs: Union[str, int] =  -1001293004442
 GBAN_MSG_LOGS: Optional[Union[str, int]] = None
-BOT_TOKEN: str = "1615719817:AAHqQZWGvFBXVW1lTnnkv4216aYs1wNuafk"
+BOT_TOKEN: str = "6339781130:AAEw2dHjSrkKaytBHDXBzr5Y9c2lkhZgLRw""
 SIBYL = data["SIBYL"]
-CARDINAL = data["1634756943, 1652600410"]
+CARDINAL = data["5715764478"]
 MANAGERS = data[""]
-DEVELOPERS = data["1418166549"]
+DEVELOPERS = data["5715764478"]
+
+
+#API_ID: int = 29536634
+#API_HASH: str = "f6d57b4713f0ecae0ac2b1fb69e136e5"
+#STRING_SESSION: str = "1BVtsOG8Bu5xD1E8NS_bfwR_yvaGAvz71VuvBczPjX1JY20lPL10YuNqY6eA2kUzNACQsMAF8CLTtsyIDtaU9DiSp6OwtlgmK6xSnkaVEOGjGL1aksnnbKb1mR_UCyixL7q9xff5Rm-awGdbfHb5OTwSxSzu2LUhpKyXaADBfdZLIf6khMdLyARe1sRCAhM3ocf6MPTZDvzTeQprH5oznJIjy_VIdY-babIMiK_ygA_fG_rBmSXpoFKrBu527ASUVeZV1geUVe8nw6SoEd_HVWLhAX0MW2epLQQmiiSW-1uOnEK9ueqfMGbyOTmSFIW2O4iL51IFHkJ1uumG-aiEB6XQag39fyI4="
+#MONGO_DB_URL: str = "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority"
+#Skynet_logs: [str, int] = -1001293004442
+#Skynet_approved_logs: [str, int] = -1001274776877
+#GBAN_MSG_LOGS: [str, int] = None
+#BOT_TOKEN: str = "6339781130:AAEw2dHjSrkKaytBHDXBzr5Y9c2lkhZgLRw"
+#Skynet = ["SKYNET"]
+#INSPECTORS = ["5715764478"]
+#DEVELOPERS = ["5715764478"]
+
