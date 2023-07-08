@@ -1,4 +1,4 @@
-from typing import Union, Optional
+from typing import Union, Optional, data
 
 API_ID: int = 29536634
 API_HASH: str = "f6d57b4713f0ecae0ac2b1fb69e136e5"
