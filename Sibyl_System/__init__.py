@@ -42,7 +42,7 @@ else:
     STRING_SESSION = Config.STRING_SESSION
     MONGO_DB_URL = Config.MONGO_DB_URL
     with open(os.path.join(os.getcwd(), "Sibyl_System/elevated_users.json"), "r") as f:
-        data = json.load(f)
+       
     CARDINAL = data["CARDINAL"]
     MANAGERS = data["MANAGERS"]
     DEVELOPERS = data["DEVELOPERS"]
